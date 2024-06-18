@@ -1,1 +1,83 @@
+<! DOCTYPE html> 
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="style.css"/>
+  </head>
 
+  <body>
+  <div class="grid-container">
+    
+  <div>
+    <img src="https://i.ibb.co/wd8v5Gv/workphoto.jpg">  
+    </div>
+    
+  <div class="info">
+    <h1>PA THAO</h1>
+    <h3> Medical Staff Coordinator</h2>
+    <p>paiathao@gmail.com
+    <p>(651) 558-6373 
+    <p>Plymouth, MN
+    </div>
+  <div class="title">
+    <h3>SKILLS & ABILITIES</h3>
+  </div>
+  
+<div> 
+    <p><li> Experienced managing sensitive medical staff data with a high level of confidentialty and accuracy
+    <li> Ten years of experience in the healthcare industry
+    <li> Maintain comprehensive and organize records for over 500 medical staff members
+    <li> Strong problem solving skills with superior attention to detail
+    <li> Self-motivated and exceptional team building skills
+    <li> Expertise in identifying and prioritizing tasks to meet deadlines
+ </div>
+  
+ <div class="title">
+  <h3> WORK EXPERIENCE </h3>
+ </div>
+ 
+ <div>
+   <p><b>PARK NICOLLET METHODIST HOSPITAL</b>
+   <br>Medical Staff Credentialing Coordinator
+   <br>August 2020 - Present</p>
+
+  
+    <li> Manage sensitive medical staff data with a high level of confidentialty and accuracy
+    <li> Detail oriented with the ability to process up to 100 initial and recredentialing files in a month
+    <li> Maintain comprehensive and organize records for over 500 medical staff members
+    <li> Strong problem solving skills with superior attention to detail
+    <li> Self-motivated and exceptional team building skills
+    <li> Coordinate multiple credentialing projects simultaneously meeting all deadlines
+ 
+  
+   <p><b>HEALTHPARTNERS CREDENTIALING BUREAU </b>
+   <br>Credentialing Coordinator 
+   <br>January 2019 - April 2020</p>
+
+  
+  <div class=description> 
+    <li> Reviewed practitioner credentialing applications according to HealthPartners Hospital bylaws
+    <li> Analyzed delineation of privilege documentaions to ensure practitioners are meeting criteria
+    <li> Verified documentation such as licensure, Drug Enforement Agency registration, board certification, education and more
+    <li> Accurately input data such as education and training, licenses, affiliations and verification into credentialing database
+      <li> Communicated with practitioners to obtain necessary documents
+
+   <p><b>HMONG INTERNATIONAL ACADEMY</b>
+    <br>Health Services Assistant 
+    <br>August 2016 - January 2019</p>
+
+  
+  <div class=description> 
+    <li> Provided first aid and episodic care to Pre-K to 8th grade students and staff
+    <li> Managed special health care needs including ADHD, asthma, diabetes and allergy medications
+    <li> Hmong translator for all medical and health issues
+    <li> Entered data accurately and maintained student health records in Electronic Pupil Health Record
+    <li> Maintained student immunization records according to the MN School Immunization Law 
+    <li> Tracked and analyzed student daily attendance according to MN School Attendance Law
+ </div>
+   
+
+
+  
+  </body>
+</html>
